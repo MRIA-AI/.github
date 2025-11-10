@@ -1,4 +1,4 @@
-## Why we build MRIA 👋
+## Why we build MRIA (Medical Retrievel Intelligence Assistant) 👋
 
 
 Doctors and Nurses say this;  
